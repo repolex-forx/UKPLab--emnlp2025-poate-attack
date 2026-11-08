@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "emnlp2025-poate-attack",
+  "versions": [
+    {
+      "commit": "010067efa28bb5327f25c38ee282a1c37efebbab",
+      "tag": "",
+      "parsed_at": "2026-11-08T18:42:07.872405+00:00"
+    }
+  ]
+}
