@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/emnlp2025-poate-attack/commit/010067efa28bb5327f25c38ee282a1c37efebbab",
       "git:hexsha": "010067efa28bb5327f25c38ee282a1c37efebbab",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
